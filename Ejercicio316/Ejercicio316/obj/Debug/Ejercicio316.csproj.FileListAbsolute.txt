@@ -1,0 +1,11 @@
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\bin\Debug\Ejercicio316.exe.config
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\bin\Debug\Ejercicio316.exe
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\bin\Debug\Ejercicio316.pdb
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.csproj.AssemblyReference.cache
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.PantallaDeposito.resources
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.Properties.Resources.resources
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.csproj.GenerateResource.cache
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.csproj.CoreCompileInputs.cache
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.exe
+D:\Desktop\UTN\4to año\PAV I - Programación de Aplicaciones Visuales\TAREAS\Ejercicio316\Ejercicio316\obj\Debug\Ejercicio316.pdb
